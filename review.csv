@@ -1,1 +1,9 @@
-landmark_id,visitor_name,country,date,time_spent,rating 1,Alice Johnson,Germany,2023-07-01,3,5 2,Bob Smith,USA,2023-07-02,2,4 3,Charlie Brown,UK,2023-07-03,5,5 4,Alice Johnson,Germany,2023-07-04,4,4 5,Bob Smith,USA,2023-07-05,3,5 1,Charlie Brown,UK,2023-07-06,2,4 2,Alice Johnson,Germany,2023-07-07,5,5 1023,Alice Johnson,Germany,2023-07-08,4,4
+landmark_id,visitor_name,country,date,time_spent,rating,
+1,Alice Johnson,Germany,2023-07-01,3,5,
+2,Bob Smith,USA,2023-07-02,2,4,
+3,Charlie Brown,UK,2023-07-03,5,5,
+4,Alice Johnson,Germany,2023-07-04,4,4,
+5,Bob Smith,USA,2023-07-05,3,5,
+1,Charlie Brown,UK,2023-07-06,2,4,
+2,Alice Johnson,Germany,2023-07-07,5,5,
+1023,Alice Johnson,Germany,2023-07-08,4,4
